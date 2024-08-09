@@ -5,7 +5,7 @@ Date of Experiment     : 5th August 2024
 Report Submission      : 11th August 2024
 </br>
 </br>
-DATA FILES :
+CSV DATA FILES :
 </br>
 COLUMNS -> GL_0, GL_50, GL_75, GL_100
 </br>
