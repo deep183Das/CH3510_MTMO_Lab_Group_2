@@ -4,6 +4,5 @@ the part of experiment 1 and the columns with comparatively thinner size are fro
 </br>
 - 1st part of the experiment consists of the observation done on different columns with same size but for different 
 solutions taken in them. The solutions vary in terms of the CaCO3 concentration in them.
-</br>
 - 2nd part of the experiment consists of the observation done with the same liquid (with a fixed concentration of CaCO3) but 
 in different sized columns.
