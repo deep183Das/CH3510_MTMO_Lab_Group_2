@@ -1,1 +1,1 @@
-- This folder contains two TDMS files which are straightforwardedly the Lab data which were obtained for both sphere and cylinders' heating and cooling effects.
+- This folder contains two TDMS files which are straightforwardedly the Lab data that were obtained for both sphere and cylinders' heating and cooling effects.
